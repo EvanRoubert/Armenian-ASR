@@ -1,8 +1,6 @@
 # Armenian-ASR
 State-of-the-art Automatic Speech Recognition (ASR) project for the Armenian language.
 
-# Armenian ASR
-
 This project aims to develop a state-of-the-art Automatic Speech Recognition (ASR) model for the Armenian language.
 
 ## Status
